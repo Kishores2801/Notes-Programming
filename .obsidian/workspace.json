@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "547f4fb883f79999",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b2ea1247ad7a60b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b2c30079eba5b90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/0. Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecfed46d454b8e70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/1.4.3 Tuple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3b53c6b0d032464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/1.1. Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b803da4335e78fbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b17324db73caf16e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2bea9cb3c90574c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3468db7d8aa322d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59e1f4b2970fc5f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45cf5cb4a74b5185",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a992034ea52ee8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35bc07fed440a95f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/1.1. Variables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19c4e2450e92cf75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/1.1. Variables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2896350fe3baef69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d25177068f92fe2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/1.1. Variables.md"
+              }
+            }
+          },
+          {
+            "id": "b8fc9a5c9f16379d",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "a3b53c6b0d032464",
+  "lastOpenFiles": [
+    "Python/1. Fundamentals of python.md",
+    "Python/0. Python.md",
+    "Web Scraping/Web Scraping.md",
+    "Web Scraping",
+    "Python/1.4.3 Tuple.md",
+    "Python/1.4 Compound Data Types.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Python/1.4.2 Dictionaries.md",
+    "Python/1.4.1 List.md",
+    "Python/1.3 Strings.md",
+    "images/List Slicing.png",
+    "images/List Indexing.png",
+    "SQL/1.9 Transaction Control Language.md",
+    "[Sub-Queries & Nested Selects.md",
+    "SQL/1.7 Joins.md",
+    "SQL/0. SQL.md",
+    "SQL/1.8 Union.md",
+    "SQL/1.6 Sub-Queries & Nested Selects.md",
+    "Python/1.2 Primitive Data types.md",
+    "SQL/1.3.4 DELETE.md",
+    "SQL/1.5 SQL Built-in Functions.md",
+    "SQL/1.4 SQL Data Type.md",
+    "SQL/1.3.3 UPDATE.md",
+    "SQL/1.3.2 SELECT.md",
+    "SQL/1.3 DML (Data Manipulation Language).md",
+    "SQL/1.2 DDL (Data Definition Language).md",
+    "SQL/1.2.4 DROP.md",
+    "SQL/1.3.1 INSERT.md",
+    "Sub-Queries & Nested.md",
+    "Python",
+    "HTML",
+    "images/Image 1.png",
+    "Github",
+    "images/Pasted image 20240613223128.png",
+    "images",
+    "SQL",
+    "images/Pasted image 20240613224324.png",
+    "Image.png",
+    "images/Pasted image 20240613223137.png",
+    "images/Pasted image 20240613223740.png",
+    "images/Pasted image 20240613224054.png"
+  ]
+}
